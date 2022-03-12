@@ -1,0 +1,12 @@
+D:\Bureau\AppChiffrement\AppChiffrement\bin\Debug\AppChiffrement.exe.config
+D:\Bureau\AppChiffrement\AppChiffrement\bin\Debug\AppChiffrement.exe
+D:\Bureau\AppChiffrement\AppChiffrement\bin\Debug\AppChiffrement.pdb
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.csprojAssemblyReference.cache
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.Properties.Resources.resources
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.csproj.GenerateResource.cache
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.exe
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.pdb
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.form1.resources
+D:\Bureau\AppChiffrement\AppChiffrement\bin\Debug\BouncyCastle.Crypto.dll
+D:\Bureau\AppChiffrement\AppChiffrement\bin\Debug\BouncyCastle.Crypto.xml
+D:\Bureau\AppChiffrement\AppChiffrement\obj\Debug\AppChiffrement.csproj.CopyComplete
