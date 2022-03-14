@@ -9,3 +9,11 @@ You can choose a folder or a single file to encrypt (same for decrypt operations
 You can now encrypt or decrypt a file or a folder (and all it's sub-folders)
 
 ![base](https://deadman.fr/images/github/Encrypter/filled.PNG)
+
+
+
+TODO : 
+  [ ] Loading bar progression when encrypting / decrypting
+    - List of all files : 100%, for each file we increase %
+  [ ] List of files to encrypt / decrypt
+    [ ] Possibility to unselect some files
