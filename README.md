@@ -12,9 +12,9 @@ You can now encrypt or decrypt a file or a folder (and all it's sub-folders)
 
 
 
-TODO : 
-  [ ] Loading bar progression when encrypting / decrypting
-    [ ] List of all files : 100%, for each file we increase %
-  [ ] List of files to encrypt / decrypt
-    [ ] Possibility to unselect some files
-    [ ] Possibility to encrypt folders name
+# TODO : 
+  - [ ] Loading bar progression when encrypting / decrypting
+    - [ ] List of all files : 100%, for each file we increase %
+  - [ ] List of files to encrypt / decrypt
+    - [ ] Possibility to unselect some files
+    - [ ] Possibility to encrypt folders name
